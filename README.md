@@ -15,6 +15,10 @@ Rol Laboral: Responsable de Tecnología
 Carrera: DevOps
 
 Franco Perez
+Mail: francogabriel.perez@hotmail.com
+LinkedIn: https://www.linkedin.com/in/franco-gabriel-p%C3%A9rez-garuti-a2987a1a0/
+Rol: DevTeam.
+Educación IT: Curso de Cloud Devops
 
 Sol Battaglia
 
