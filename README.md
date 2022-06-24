@@ -9,7 +9,7 @@ DevTeam:
 Pablo Saracco
 
 German E. Faciano
-germane@gmail.com
+Mail: germane@gmail.com
 Linkedin: https://linkedin.com/in/gemanef
 Rol Laboral: Responsable de Tecnología
 Carrera: DevOps
