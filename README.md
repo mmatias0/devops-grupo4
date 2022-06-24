@@ -14,8 +14,8 @@ Pablo Saracco
 German E. Faciano
 Mail: germane@gmail.com
 Linkedin: https://linkedin.com/in/gemanef
-Rol Laboral: Responsable de Tecnología
-Carrera: DevOps
+Rol Laboral: DevTeam.
+Carrera/Curso: Cloud DevOps
 
 Franco Perez
 Mail: francogabriel.perez@hotmail.com
