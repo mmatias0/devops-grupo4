@@ -2,6 +2,9 @@
 PO: 
 
 Matias Mola
+Mail: molamatias@gmail.com
+Rol Laboral: PO.
+Carrera/Curso: Cloud DevOps
 
 Scrum Master: 
 
