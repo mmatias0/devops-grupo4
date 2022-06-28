@@ -4,6 +4,7 @@ PO:
 Matias Mola
 
 - Mail: molamatias@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mola-matias
 - Rol: P.O.
 Educación IT: Curso de Cloud Devops
 
