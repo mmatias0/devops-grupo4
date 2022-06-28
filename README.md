@@ -36,7 +36,7 @@ Sol Battaglia
 - Rol: DevTeam.
 Educación IT: Curso de Cloud Devops
 
-Tomas Marzzellino
+Tomás Marzzellino
 - Mail: marzzellinot@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tomas-marzzellino/
 - Rol: DevTeam.
