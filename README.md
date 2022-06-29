@@ -42,4 +42,10 @@ Tomás Marzzellino
 - Rol: DevTeam.
 Educación IT: Curso de Cloud Devops
 
+Damián Soto
+- Mail: soto_damian@hotmail.com.com
+- LinkedIn: https://www.linkedin.com/in/damian-alejandro-soto-80b09280/
+- Rol: DevTeam.
+Educación IT: Curso de Cloud Devops
+
 
